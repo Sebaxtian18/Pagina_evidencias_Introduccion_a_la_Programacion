@@ -15,20 +15,24 @@ Pasos:
 -  Tres párrafos ```<p>```
 -  Una imagen ```<img>```
 -  Un pie de página ```<footer>```
+
 ### 2.   Aplica los siguientes estilos usando selectores de etiqueta:
 
 -  Color rojo a los encabezados ```<h1>```
 -  Color azul a los párrafos ```<p>```
 -  Borde grueso negro a la imagen ```<img>```
+
 ### 3.  Aplica los siguientes estilos usando seleccionadores de clase:
 
 -  Color verde a los elementos con la clase ".destacado"
 -  Tamaño de fuente grande a los elementos con la clase ".grande"
-### 3. Aplica los siguientes estilos usando seleccionadores de ID:
+
+### 4. Aplica los siguientes estilos usando seleccionadores de ID:
 
 -  Color amarillo al elemento con ID "#principal"
 -  Sombra al elemento con ID "#sombras"
-### 4. Aplica los siguientes estilos usando seleccionadores descendientes:
+
+### 5. Aplica los siguientes estilos usando seleccionadores descendientes:
 
 -  Color gris a los párrafos dentro de un ```<div>```
 - Centrar el contenido de la sección ```<section>```
