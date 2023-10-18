@@ -13,7 +13,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 1. Crea un nuevo archivo HTML y CSS.
 2. En el archivo HTML, agrega el siguiente código.
 
-```
+```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -30,7 +30,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 ```
 3. En el archivo CSS, agrega el siguiente código:
 
-```
+```css
 .contenedor {
   width: 200px;
   height: 200px;
@@ -45,18 +45,18 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 
 -  Practicar el uso de las propiedades de espaciado.
 
-4. Margin: Agrega un margen de 10 píxeles a todos los lados del elemento.
+- Margin: Agrega un margen de 10 píxeles a todos los lados del elemento.
 
-```
+```css
 .elemento {
   margin: 10px;
   width: 100px;
   height: 100px;
 }
 ```
-5. Padding: Agrega un relleno de 20 píxeles a todos los lados del elemento.
+- Padding: Agrega un relleno de 20 píxeles a todos los lados del elemento.
 
-```
+```css
 .elemento {
   padding: 20px;
   margin: 10px;
@@ -64,9 +64,9 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
   height: 100px;
 }
 ```
-6.  Border: Agrega un borde de 5 píxeles de color rojo.
+-  Border: Agrega un borde de 5 píxeles de color rojo.
 
-```
+```css
 .elemento {
   border: 5px solid red;
   padding: 20px;
@@ -75,9 +75,9 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
   height: 100px;
 }
 ```
-7. Border-radius: Agrega un radio de esquina de 10 píxeles.
+- Border-radius: Agrega un radio de esquina de 10 píxeles.
 
-```
+```css
 .elemento {
   border-radius: 10px;
   border: 5px solid red;
@@ -87,9 +87,9 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
   height: 100px;
 }
 ```
-8. Unidades de medida: Prueba diferentes unidades de medida para las propiedades de espaciado. Por ejemplo, puedes usar unidades porcentuales (%) para establecer un margen o relleno del 50%.
+- Unidades de medida: Prueba diferentes unidades de medida para las propiedades de espaciado. Por ejemplo, puedes usar unidades porcentuales (%) para establecer un margen o relleno del 50%.
 
-```
+```css
 .elemento {
   border-radius: 10px;
   border: 5px solid red;
@@ -241,6 +241,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
   ```
 
   ### Preguntas
+
   1. ¿Qué es la propiedad `margin`?
   - La propiedad `margin` nos permite desplazar contenido al interior de un contenedor o el contenedor mismo haciendo uso de los cuatro margenes: margen izquierdo `margin-left`, margen derecho `margin-right`, margen superior `margin-top`, o margen inferior `margin-bottom`.
   2. ¿Qué es la propiedad `padding`?
