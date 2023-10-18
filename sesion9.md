@@ -240,7 +240,7 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
   }    
   ```
 
-  ### Preguntas
+### Preguntas
 
   1. ¿Qué es la propiedad `margin`?
   - La propiedad `margin` nos permite desplazar contenido al interior de un contenedor o el contenedor mismo haciendo uso de los cuatro margenes: margen izquierdo `margin-left`, margen derecho `margin-right`, margen superior `margin-top`, o margen inferior `margin-bottom`.
